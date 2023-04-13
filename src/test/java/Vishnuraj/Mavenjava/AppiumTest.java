@@ -8,6 +8,7 @@ public class AppiumTest {
 	public void NativeAPPandroid()
 	{
 		System.out.println("NativeAPPandroid");
+            System.out.println("NativeAPPandroid2");
 	}
 	
 
